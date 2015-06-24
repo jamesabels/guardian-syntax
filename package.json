@@ -1,7 +1,7 @@
 {
   "name": "guardian-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A rad syntax theme inspired by Guardian for VIM.",
   "keywords": [
     "syntax",

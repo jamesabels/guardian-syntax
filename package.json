@@ -1,0 +1,15 @@
+{
+  "name": "guardian-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A rad syntax theme inspired by Guardian for VIM.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/jamesabels/guardian-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}

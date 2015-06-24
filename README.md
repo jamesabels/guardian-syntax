@@ -1,5 +1,5 @@
-# my-theme-syntax theme
+# Guardian theme
 
-A short description of your theme.
+A rad syntax theme inspired by Guardian for VIM.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Guardian for Atom.](http://i.imgur.com/IQjUKfQ.jpg)
